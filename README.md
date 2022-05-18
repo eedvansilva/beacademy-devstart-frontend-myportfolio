@@ -11,7 +11,7 @@ Projeto realizado no dia 12 de maio de 2022, tal projeto foi desenvolvido em liv
 ## Autores
 
 - [@lnmont](https://www.github.com/lnmont)😄
-- [@eevansilva] (https://github.com/eedvansilva)
+- [@eedvansilva] (https://github.com/eedvansilva)
 
 
 ## Libs externas
